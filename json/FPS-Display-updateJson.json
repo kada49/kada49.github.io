@@ -1,1 +1,26 @@
-{}
+{
+    "homepage": "https://github.com/kada49/FPS-Display/releases/latest",
+     "1.8.9": {
+        "0.1.0": "added an FPS Display on the top-left corner, added a configuration menu accessed with /fps, added the official GitHub Download link in the configuration menu",
+        "0.1.1": "added an option to toggle the display, added a link to the NEW official Discord Server for suggestions, bug reports and discussion, slightly tweaked the location of the display, added the possibility to customise color and shadow of the display",
+        "0.1.2": "fixed a bug where you were not able to launch Minecraft in some situations, fixed a bug where some Gui elements were not rendered correctly",
+        "0.2.0": "added the option to toggle a prefix, added an option to toggle a suffix",
+        "0.2.1": "changed the way you change the Display text color: from a list of 16 colors to a color rgb palette",
+        "0.2.2": "added an update notification when joining a world/server for the first time after launching Minecraft, added credits",
+        "0.2.3": "added the /fps update command to check for update, fixed the update notification not showing up if the mod was not updated",
+        "0.2.4": "added the Essential mod, fixed spelling mistakes",
+        "0.3.0": "added the ability to change the positioning of the FPS Counter on the screen, changed how the '/fps update' command works",
+        "0.4.0": "added the option to scale the FPS Counter",
+        "0.4.1": "Updated the Essential library to version 1872, small fixes",
+        "0.5.0": "Updated the Essential library to version 1884, added a background behind the FPS Display",
+        "0.5.1": "Fixed bugs breaking the mod, updated the Json 'Check for updates' link",
+        "1.0.0": "minor tweaks and code improvements, updated Essential to 2163",
+        "1.0.1": "Updated the Essential library, bug fixes",
+        "1.1.0": "brackets, one more option for the location, improved the configuration, updated Essential library to version 2666, bug fixes",
+        "1.1.1": "Made so that when a new version is available you can see it from the mods GUI\nConverted to kotlin buildscript\nUpdated Essential Library\nOptimized code\nFixed typo"
+    },
+    "promos": {
+        "1.8.9-latest": "1.1.1",
+        "1.8.9-recommended": "1.1.1"
+    }
+}
