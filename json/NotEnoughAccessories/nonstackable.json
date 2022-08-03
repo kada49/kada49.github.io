@@ -1,5 +1,5 @@
 {
-    "hasNext": {
+    "next": {
         "BAIT_RING": "SPIKED_ATROCITY",
         "TITANIUM_TALISMAN": "TITANIUM_RING",
         "TITANIUM_RING": "TITANIUM_ARTIFACT",
@@ -22,7 +22,7 @@
         "POWER_RING": "POWER_ARTIFACT",
         "HEALING_TALISMAN": "HEALING_RING"
     },
-    "hasPrevious": {
+    "previous": {
         "SPIKED_ATROCITY": "BAIT_RING",
         "TITANIUM_RING": "TITANIUM_TALISMAN",
         "TITANIUM_ARTIFACT": "TITANIUM_RING",
