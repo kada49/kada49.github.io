@@ -23,6 +23,9 @@
         "HEALING_TALISMAN": "HEALING_RING"
     },
     "hasPrevious": {
-        "SPIKED_ATROCITY": "BAIT_RING"
+        "SPIKED_ATROCITY": "BAIT_RING",
+        "TITANIUM_RING": "TITANIUM_TALISMAN",
+        "TITANIUM_ARTIFACT": "TITANIUM_RING",
+        "TITANIUM_RELIC": "TITANIUM_ARTIFACT"
     }
 }
