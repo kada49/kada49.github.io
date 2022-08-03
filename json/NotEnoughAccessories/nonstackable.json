@@ -23,6 +23,6 @@
         "HEALING_TALISMAN": "HEALING_RING"
     },
     "hasPrevious": {
-
+        "SPIKED_ATROCITY": "BAIT_RING"
     }
 }
