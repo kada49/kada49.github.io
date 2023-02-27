@@ -22,7 +22,7 @@
         "1.2.0": "Autocomplete [TAB] for subcommands\nPerformance improvements\nReadability improvements\nLibrary updates"
     },
     "promos": {
-        "1.8.9-latest": "1.2.1",
+        "1.8.9-latest": "1.2.0",
         "1.8.9-recommended": "1.2.0"
     }
 }
